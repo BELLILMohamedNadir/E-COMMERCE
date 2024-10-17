@@ -175,4 +175,6 @@ This API provides various features such as user creation, authentication, produc
 | id        | `Long`   | **Required**|
 
 ## Note
-You need to add the bearer token to each request, except for the register and authentication requests
+1- You need to add the bearer token to each request, except for the register and authentication requests
+
+2- Set your database configuration
