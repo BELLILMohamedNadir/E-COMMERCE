@@ -11,7 +11,7 @@ This API provides various features such as user creation, authentication, produc
 #### 2- Spring Data JPA
 #### 3- Spring Security
 #### 4- Hibernate - As the ORM (Object-Relational Mapping)
-#### 5- JJWT (Java JWT)
+#### 5- JWT
 #### 6- MySQL (for production)
 #### 7- Maven
 #### 8- Validation API (javax.validation)
