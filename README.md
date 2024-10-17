@@ -16,7 +16,6 @@ This API provides various features such as user creation, authentication, produc
 #### 7- Maven
 #### 8- Validation API (javax.validation)
 #### 9- JUnit 5
-#### 10- Mockito
 ## API Reference
 
 ### USER
